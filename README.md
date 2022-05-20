@@ -1,5 +1,7 @@
 # Тестовое задание для ГЛОНАССсофт
 
+[![.NET](https://github.com/Fooxboy/GlonasssoftTestWebApi/actions/workflows/dotnet.yml/badge.svg?branch=master)](https://github.com/Fooxboy/GlonasssoftTestWebApi/actions/workflows/dotnet.yml)
+
 ### Методы api:
 
 **POST:** ``/report/user_statistics`` - *возвращает guid запроса для получения отчета пользователя*
